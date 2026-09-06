@@ -1,6 +1,6 @@
 import os
 
-folder_name = input()
+folder_name = input().upper()
 
 generate_files = ["A.py", "B.py", "C.py", "D.py"]
 
